@@ -2,6 +2,8 @@
 
 ![Smart Backpack](https://user-images.githubusercontent.com/75977813/236689877-5417d839-6055-430e-91b0-121daa0b86f8.gif)
 
+The above GIF gives an idea about the project.
+
 ## Components used
 
 - Force Sensing Resistor
@@ -30,5 +32,13 @@ The circuit is Rigged as shown in the circuit diagram below
 - VCC pin is connected to the 5V terminal of the arduino.
 - gnd is connected to the gnd of arduino.
 
+### Android App
 
+While installing the application, your android smart phone can prevent it from downloading as it's an unauthorised source. Click on **Install Anyway** to install the application.
 
+- Click on connect to bluetooth button and select your device. ( Before opening the app, make sure you have connected to the bluetooth module, It's usually named **HC-05** and it's password will be **1234**.
+- Click on "*Find My Bag"* to check if your bag is connected. You'll hear a beep if the bag is connected.
+- Click on "*Callibrate*" to check which strap has to be adjusted properly.
+
+##### **NOTE**
+If you are getting the output opposite to the expected output, exchange the A1 and A2 pins.
