@@ -42,3 +42,7 @@ While installing the application, your android smart phone can prevent it from d
 
 ##### **NOTE**
 If you are getting the output opposite to the expected output, exchange the A1 and A2 pins.
+
+
+#### Working video 
+[Youtube link](https://youtu.be/5yHtvpJuOx0)
