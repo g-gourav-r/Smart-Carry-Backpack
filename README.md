@@ -46,3 +46,8 @@ If you are getting the output opposite to the expected output, exchange the A1 a
 
 #### Working video 
 [Youtube link](https://youtu.be/5yHtvpJuOx0)
+
+### Sensor Testing Repository
+For testing individual sensors, you can visit the [Sensor Testing Repository](https://github.com/g-gourav-r/Smart_Backpack_Sensor_Testing).
+
+Feel free to explore and contribute to this project. If you have any questions or encounter issues, please open an issue in this repository for assistance.
